@@ -398,5 +398,12 @@ iframe {
    
 }
 
-@media (max-width: 1150px)
-.nav .
+.nav-menu {
+	background-color: black;
+	color: white;
+	width: 70px;
+	border: none;
+	height: 40px;
+	display: none;
+	border-radius: 5px;
+}
