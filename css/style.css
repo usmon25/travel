@@ -13,6 +13,10 @@
 	justify-content: space-between;
 }
 
+.meet > .container{
+	padding: 0;
+}
+
 .nav-title {
 	font-weight: bold;
 	font-size: 20px;
@@ -21,6 +25,7 @@
 .nav-list {
 	display: flex;
 	margin-left: 100px;
+	align-items: center;
 }
 
 .nav-link {

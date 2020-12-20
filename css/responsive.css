@@ -1,6 +1,6 @@
-@media(max-width: 1150px){
 	.container {
        width: 1150px;
+	.iphone {
 	}
 }
 
@@ -112,140 +112,75 @@
 	}
 }
 
-@media(max-width: 720px){
-	.container {
-         width: 700px;    
+	.meet-title {
+		width: 596px;
 	}
 }
 
-@media(max-width: 700px){
-	.container {
-         width: 680px;    
+@media(max-width: 1160px){
+	.iphone {
+		margin-left: -25px;
 	}
 }
 
-@media(max-width: 730px){
-	.container .nav-menu {
-		display: block;
+@media(max-width: 1154px) {
+	.meet-title {
+      width: 590px;
+	}
+
+	input {
+		width: 350px;
 	}
 }
 
-@media(max-width: 730px){
-    .container .nav-list {
-    	display: none;
-    }
-}
-
-@media(max-width: 660px){
-	.container {
-		width: 640px;
+@media(max-width:1150px) {
+	.experience-img {
+		width: 390px;
 	}
-}
 
-@media(max-width: 640px){
-	.container {
-		width: 620px;
-	}
-}
-
-@media(max-width: 620px){
-	.container {
-		width: 600px;
-	}
-}
-
-@media(max-width: 600px){
-	.container {
+	.meet-title {
 		width: 580px;
 	}
-}
 
-@media(max-width: 580px){
-	.container {
-		width: 560px;
+	.stars {
+       width: 180px;
 	}
 }
 
-@media(max-width: 560px){
-	.container {
-		width: 540px;
-	}
-}
-
-@media(max-width: 540px){
-	.container {
-		width: 520px;
-	}
-}
-
-@media(max-width: 520px){
-	.container {
+@media(max-width: 1158px) {
+	.meet-title {
 		width: 500px;
 	}
-}
 
-@media(max-width: 500px){
-	.container {
-		width: 480px;
-	}
-}
-
-@media(max-width: 480px){
-	.container {
-		width: 460px;
-	}
-}
-
-@media(max-width: 460px){
-	.container {
-		width: 440px;
-	}
-}
-
-@media(max-width: 440px){
-	.container {
-		width: 420px;
-	}
-}
-
-@media(max-width: 420px){
-	.container {
-		width: 400px;
-	}
-}
-
-@media(max-width: 400px){
-	.container {
-		width: 380px;
-	}
-}
-
-@media(max-width: 380px){
-	.container {
-		width: 360px;
-	}
-}
-
-@media(max-width: 360px){
-	.container {
-		width: 340px;
-	}
-}
-
-@media(max-width: 340px){
-	.container {
-		width: 320px;
-	}
-}
-
-@media(max-width: 320px){
-	.container {
+	input {
 		width: 300px;
 	}
 }
 
-@media(max-width: 300px){
-	.container {
-		width: 280px;
+@media(max-width: 1140px) {
+	.meet {
+		width: 1000px;
+	}
+}
+
+@media(max-width: 1140px) {
+	.experience-img {
+		margin-left: -20px;
+	}
+}
+
+@media(max-width: 1126px){
+	.iphone {
+		margin-left: -40px;
+	}
+}
+
+@media(max-width: 1110px) {
+	.iphone {
+		margin-left: -50px;
+	}
+
+	.see {
+		width: 100px;
 	}
 }
