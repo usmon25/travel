@@ -71,7 +71,7 @@
 
 .meet-text {
 	margin-top: 40px;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: normal;
 	line-height: 2.4;
 }
@@ -103,13 +103,6 @@ input {
 
 img {
 	height: 540px;
-}
-
-.email {
-	width: 35px;
-	height: 35px;
-	position: relative;
-	top: 10px;
 }
 
 .small {
@@ -243,7 +236,7 @@ img {
 
 .world {
 	display: flex;
-	margin-left: -400px;
+	margin-left: -350px;
 	margin-top: 550px;
 	font-size: 40px;
 	font-weight: bold;
@@ -404,11 +397,15 @@ iframe {
 }
 
 .nav-menu {
+	display: none;
 	background-color: black;
 	color: white;
 	width: 70px;
 	border: none;
 	height: 40px;
-	display: none;
 	border-radius: 5px;
+}
+
+.always {
+	width: 00px;
 }

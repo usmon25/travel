@@ -60,6 +60,24 @@
 	}
 }
 
+@media(max-width: 1130px) {
+	.section-img {
+		width: 200px;
+		height: 300px;
+	}
+
+	.secton-img {
+		margin-top: 60px;
+		width: 200px;
+		height: 200px;
+	}
+
+	.secton-img:nth-child(2) {
+		height: 300px;
+		width: 200px;
+	}
+}
+
 @media(max-width: 1126px){
 	.iphone {
 		margin-left: -40px;
@@ -73,5 +91,369 @@
 
 	.see {
 		width: 100px;
+	}
+}
+
+@media(max-width: 1100px) {
+	.iphone {
+		margin-left: -65px;
+	}
+}
+
+@media(max-width: 1080px) {
+	.see {
+		margin-left: -50px;
+	}
+
+	.world {
+		width: 350px;
+	}
+
+	.see-text {
+		width: 300px;
+		
+	}
+
+	.travel-title {
+		font-size: 40px;
+	}
+
+	.travel-text {
+		font-size: 17px;
+	}
+
+	.iphone {
+		margin-left: -100px;
+	}
+}
+
+@media(max-width: 1056px) {
+	.meet-title {
+		width: 450px;
+	}
+
+	.all {
+		margin-left: -10px;
+	}
+
+	input {
+		width: 250px;
+	}
+}
+
+@media(max-width: 1040px) {
+	.travel {
+	   margin-left: -100px;
+	}
+}
+
+@media(max-width: 1015px) {
+	.meet {
+		margin-left: -100px;
+	}
+
+	input {
+		width: 250px;
+	}
+
+	.experience-img {
+		margin-left: -50px;
+	}
+}
+
+@media(max-width: 970px) {
+	.experience {
+		margin-left: -100px;
+	}
+}
+
+@media(max-width: 950px) {
+	.iphone {
+		margin-left: -110px;
+	}
+}
+
+@media(max-width: 940px) {
+	.small-text {
+		margin-left: -170px;
+	}
+
+	.travel-item-text {
+		width: 300px;
+	}
+
+	.travel-text {
+		width: 370px;
+	}
+
+	.iphone {
+		margin-left: -200px;
+	}
+
+	.world {
+		padding-left: 100px;
+	}
+
+	.see-text {
+		margin-top: 900px;
+		margin-left: 1px;
+		margin-top: 1000px;
+		margin-left: -260px;
+	}
+}
+
+@media(max-width: 900px) {
+	.all {
+		margin-left: -50px;
+	}
+
+	.meet-text {
+		font-size: 16px;
+		width: 350px;
+	}
+
+	.meet-title {
+		width: 350px;
+	}
+
+	input {
+		margin-left: -200px;
+		width: 350px;
+	}
+}
+
+@media(max-width: 895px) {
+	.footer-list {
+		margin-left: -200px;
+	}
+}
+
+@media(max-width: 880px) {
+	.all {
+		margin-left: -100px;
+	}
+
+	iframe {
+		width: 100%;
+	}
+
+	.experience-title {
+		width: 330px;
+	}
+
+	.experience-text {
+		width: 300px;
+	}
+
+	.meet {
+		width: 100%;
+	}
+}
+
+@media(max-width: 850px) {
+	.footer-list {
+		margin-left: 50px;
+	}
+
+	.footer {
+		padding: 50px;
+	}
+
+	.travel-title {
+		width: 300px;
+	}
+
+	.iphone {
+		margin-left: -60px;
+	}
+
+	.travel {
+		margin-left: -150px;
+	}
+}
+
+@media(max-width: 830px) {
+	.small-text {
+		width: 300px;
+	}
+
+	.all {
+		margin-left: -40px;
+	}
+}
+
+@media(max-width: 800px) {
+	.travel-text {
+		width: 250px;
+	}
+
+	.travel-item-text {
+		width: 250px;
+	}
+
+	.iphone {
+		margin-left: -100px;
+	}
+
+	.all {
+		margin-left: 1px;
+	}
+
+	.small-text {
+		width: 250px;
+	}
+}
+
+@media(max-width: 810px) {
+	.meet-title {
+		font-size: 35px;
+	}
+
+	input {
+		margin-top: 150px;
+	}
+
+	.meet-item {
+		margin-left: -0.4px;
+		margin-left: 30px;
+	}
+}
+
+@media(max-width: 760px) {
+	.experience {
+		margin-left: -150px;
+	}
+
+	.travel {
+		margin-left: -170px;
+	}
+}
+
+@media(max-width: 740px) {
+	.meet {
+		margin-left: -150px;
+	}
+
+	input {
+		margin-left: -150px;
+	}
+
+	.meet-button {
+		left: 50px;
+		bottom: 58px;
+	}
+
+	.all {
+		margin-left: -70px;
+	}
+
+	.section-img {
+        width: 150px;
+        height: 250px;
+        margin-top: -150px;
+	}
+
+	.secton-img {
+		width: 150px;
+		margin-top: 85px;
+	}
+
+	.secton-img:nth-child(2) {
+		width: 150px;
+		height: 250px;
+	}
+
+	.iphone {
+		margin-left: -40px;
+	}
+}
+
+@media(max-width: 710px) {
+	.experience-img {
+		height: 540px;
+	}
+
+	.iphone {
+		height: 540px;
+		margin-left: 10px;
+	}
+
+	.travel-title {
+		font-size: 30px;
+	}
+
+	.travel-text {
+		line-height: 1.6;
+		font-size: 15px;
+	}
+
+	.travel-item-text {
+		font-size: 15px;
+	}
+
+	.one {
+		width: 30px;
+		height: 30px;
+	}
+
+	.travel-item-item {
+		margin-left: 5px;
+		margin-top: 5px;
+	}
+
+	.meet-text {
+		font-size: 15px;
+		line-height: 1.8;
+	}
+
+	input {
+		margin-top: 200px;
+	}
+
+	.meet-title {
+		font-size: 35px;
+	}
+
+	.world {
+        font-size: 30px;
+	}
+
+	.see-text {
+		font-size: 15px;
+		margin-top: 850px;
+	}
+}
+
+@media(max-width: 680px) {
+	.nav-list {
+		display: none;
+	}
+
+	.nav-menu {
+		display: block;
+	}
+
+	.all {
+		margin-left: -100px;
+	}
+
+	.iphone {
+		margin-left: -10px;
+	}
+}
+
+@media(max-width: 670px) {
+	.meet-title {
+		width: 250px;
+	}
+
+	.meet-text {
+		width: 250px;
+	}
+}
+
+@media(max-width: 640px) {
+	.travel {
+		flex-direction: column;
 	}
 }
